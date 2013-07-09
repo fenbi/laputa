@@ -8,7 +8,7 @@
 V1版试玩 [http://isux.tencent.com/laputa](http://isux.tencent.com/laputa)
 
 #Laputa Creators：
-[啊沙](http://iloves.org)/[ariesjia](http://www.btorange.cn)/[炸鱼](http://rovyrock.cn)/[77](http://gulu77.com/)/[杯面小王子](http://xujianye.com/wordpress/)/骄叔/brooksfan @ [ISUX](http://isux.tencent.com)
+[啊沙](http://iloves.org)/[ariesjia](http://www.btorange.com)/[炸鱼](http://rovyrock.cn)/[77](http://gulu77.com/)/[杯面小王子](http://xujianye.com/wordpress/)/骄叔/brooksfan @ [ISUX](http://isux.tencent.com)
 
 #Open Source
 本项目完全开源，如有任何疑问或者建议，欢迎反馈。
